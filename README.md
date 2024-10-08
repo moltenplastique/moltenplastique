@@ -1,0 +1,7 @@
+- 👋 Hi, I’m MAENAD
+- 👀 I’m interested in INFO
+- 🌱 I’m currently learning EVERYTHING
+- 💞️ I’m looking to collaborate on ANYTHING
+- 📫 How to reach me GPG
+- 😄 Pronouns: JEST.JESTS
+- ⚡ Fun fact: Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
